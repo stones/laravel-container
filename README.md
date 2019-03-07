@@ -1,2 +1,3 @@
-# laravel-container
-A container for Laravel
+# Laravel Container
+
+> A container for Laravel
